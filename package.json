@@ -1,0 +1,19 @@
+{
+  "name": "colorbyinterest",
+  "version": "1.0.0",
+  "description": "colour by interest is an api for getting colours by your interest's",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "anubhab bhattacharya",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.20.1",
+    "rgbaster": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
